@@ -1,0 +1,8 @@
+{
+  "name": "IELTS Writing MasterLab - Luyện Thi & Chấm Chữa Band 8+",
+  "description": "Nền tảng tự học IELTS Writing Task 1 & Task 2 với AI chấm chữa theo chuẩn 4 tiêu chí quốc tế, kho đề mẫu Band 8.5+, ngân hàng từ vựng học thuật C1/C2 và các bài luyện tập tương tác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
